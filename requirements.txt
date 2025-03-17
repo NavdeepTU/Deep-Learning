@@ -1,3 +1,6 @@
 torch
 ipykernel
 numpy
+tensorflow
+pandas
+scikit-learn
